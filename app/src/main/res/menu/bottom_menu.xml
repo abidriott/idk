@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home"
+        android:title="Inicio"
+        android:icon="@drawable/home">
+    </item>
+
+    <item
+        android:id="@+id/bottom_lista"
+        android:title="Lista"
+        android:icon="@drawable/list">
+    </item>
+    <item
+        android:id="@+id/bottom_datos"
+        android:title="Agregar"
+        android:icon="@drawable/aggc">
+    </item>
+
+    <item
+        android:id="@+id/bottom_windw"
+        android:title="Alumnos"
+        android:icon="@drawable/contacts">
+    </item>
+
+
+
+</menu>
